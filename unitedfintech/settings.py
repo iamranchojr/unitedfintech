@@ -86,7 +86,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'unitedfintechtestdb',
         'USER': 'postgres',
-        'PASSWORD': 'YoungOsab@1996',
+        'PASSWORD': '',  # TODO: Put password here
         'HOST': 'localhost',
         'PORT': '5432'
     }
